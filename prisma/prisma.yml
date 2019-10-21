@@ -1,0 +1,14 @@
+# The HTTP endpoint for your Prisma API
+#endpoint: ''
+# endpoint: http://my-pr-publi-u3k2zx6zuinz-798749495.us-east-1.elb.amazonaws.com/
+
+# Points to the file that contains your datamodel
+datamodel: datamodel.prisma
+
+# Specifies language & location for the generated Prisma client
+generate:
+  - generator: javascript-client
+    output: ../src/generated/prisma-client
+
+# give endpoint url which is exposed for the docker
+endpoint: http://localhost:41466
