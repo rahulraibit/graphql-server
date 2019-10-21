@@ -39,3 +39,9 @@ To interact with the API in a GraphQL Playground, all you need to do is execute 
 ```sh
 yarn start
 ```
+
+## important links
+
+https://www.prisma.io/docs/reference/prisma-servers-and-dbs/prisma-servers/docker-aira9zama5
+https://www.howtographql.com/graphql-js/0-introduction/
+
