@@ -41,7 +41,7 @@ yarn start
 ```
 
 ## important links
-
+Also this project will run on the docker.
 https://www.prisma.io/docs/reference/prisma-servers-and-dbs/prisma-servers/docker-aira9zama5
 https://www.howtographql.com/graphql-js/0-introduction/
 
